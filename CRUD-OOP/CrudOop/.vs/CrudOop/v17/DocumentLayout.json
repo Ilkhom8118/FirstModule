@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\service\\carsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:service\\carsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|c:\\users\\zeeyod\\desktop\\.net\\12-24\\crud-oop\\crudoop\\crudoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2842778-AD12-4FCA-AC63-B68490AD7E1C}|CrudOop.csproj|solutionrelative:crudoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarsServices.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Service\\CarsServices.cs",
+              "RelativeDocumentMoniker": "Service\\CarsServices.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Service\\CarsServices.cs",
+              "RelativeToolTip": "Service\\CarsServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:36:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Models\\Cars.cs",
+              "RelativeDocumentMoniker": "Models\\Cars.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Models\\Cars.cs",
+              "RelativeToolTip": "Models\\Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:36:36.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Service\\BookService.cs",
+              "RelativeToolTip": "Service\\BookService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:34:22.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:27:18.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:13:04.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Models\\Student.cs*",
+              "RelativeToolTip": "Models\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:25:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrudOop.csproj",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\CrudOop.csproj",
+              "RelativeDocumentMoniker": "CrudOop.csproj",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\CrudOop.csproj",
+              "RelativeToolTip": "CrudOop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T08:24:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\12-24\\CRUD-OOP\\CrudOop\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv3oAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:18:06.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
