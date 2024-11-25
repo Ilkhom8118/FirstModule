@@ -1,0 +1,15 @@
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.AssemblyInfoInputs.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.AssemblyInfo.cs
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.csproj.CoreCompileInputs.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.sourcelink.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\bin\Debug\net8.0\CRUD Post.exe
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\bin\Debug\net8.0\CRUD Post.deps.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\bin\Debug\net8.0\CRUD Post.runtimeconfig.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\bin\Debug\net8.0\CRUD Post.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\bin\Debug\net8.0\CRUD Post.pdb
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\refint\CRUD Post.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.pdb
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\CRUD Post.genruntimeconfig.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Post\obj\Debug\net8.0\ref\CRUD Post.dll
