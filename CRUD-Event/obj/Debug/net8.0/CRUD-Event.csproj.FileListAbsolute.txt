@@ -1,0 +1,15 @@
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\bin\Debug\net8.0\CRUD-Event.exe
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\bin\Debug\net8.0\CRUD-Event.deps.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\bin\Debug\net8.0\CRUD-Event.runtimeconfig.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\bin\Debug\net8.0\CRUD-Event.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\bin\Debug\net8.0\CRUD-Event.pdb
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.AssemblyInfoInputs.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.AssemblyInfo.cs
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.csproj.CoreCompileInputs.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.sourcelink.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\refint\CRUD-Event.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.pdb
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\CRUD-Event.genruntimeconfig.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD-Event\obj\Debug\net8.0\ref\CRUD-Event.dll
