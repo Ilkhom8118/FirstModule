@@ -33,7 +33,6 @@ namespace CRUD_Event
                         evnt = FillEvent();
                         eventService.Add(evnt);
                         break;
-
                     case 2:
                         Console.Clear();
                         Console.Write("Enter Id Of Event: ");
