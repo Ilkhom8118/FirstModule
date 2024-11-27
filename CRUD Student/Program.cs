@@ -29,7 +29,6 @@ internal class Program
                 case 1:
                     stnd = FillStudent();
                     service.Add(stnd);
-                    Console.Clear();
                     break;
                 case 2:
                     Console.Write("Get Id Of Student");
@@ -42,11 +41,13 @@ internal class Program
                     {
                         Console.WriteLine("Not deleted !!!");
                     }
-                    Console.Clear();
                     break;
                 case 3:
-                    UpdateStudent();
-                    Console.Clear();
+                    
+                    stnd = UpdateStudent();
+                    stnd.Id = evntId;
+                   
+                    
                     break;
                 case 4:
                     List<Student> stnts = service.GetAll();
@@ -59,7 +60,6 @@ internal class Program
                         Console.WriteLine($"Email: {student.Email}");
                         Console.WriteLine($"PhoneNumber: {student.PhoneNumber}");
                     }
-                    Console.Clear();
                     break;
                 case 5:
 
@@ -72,7 +72,6 @@ internal class Program
                     {
                         Console.WriteLine($"{property.Name}: {property.GetValue(studentPerson)}");
                     }
-                    Console.Clear();
                     break;
             }
         }

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|c:\\users\\zeeyod\\desktop\\.net\\firstmodule\\crud student\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|solutionrelative:services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|c:\\users\\zeeyod\\desktop\\.net\\firstmodule\\crud student\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|c:\\users\\zeeyod\\desktop\\.net\\firstmodule\\crud student\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|solutionrelative:services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{975DD66A-6883-443F-913B-2E701AB83D6E}|CRUD Student.csproj|c:\\users\\zeeyod\\desktop\\.net\\firstmodule\\crud student\\crud student.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,20 +30,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentServices.cs",
               "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Student\\Services\\StudentServices.cs",
               "RelativeDocumentMoniker": "Services\\StudentServices.cs",
               "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Student\\Services\\StudentServices.cs",
               "RelativeToolTip": "Services\\StudentServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwCcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T09:00:40.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Student\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -57,15 +57,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CRUD Student",
+              "Title": "CRUD Student.csproj",
               "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Student\\CRUD Student.csproj",
               "RelativeDocumentMoniker": "CRUD Student.csproj",
               "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Student\\CRUD Student.csproj",
               "RelativeToolTip": "CRUD Student.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T08:59:22.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T08:59:22.886Z"
             },
             {
               "$type": "Document",
@@ -75,7 +74,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Student\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAApwEoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAEwC0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T08:58:36.13Z",
               "EditorCaption": ""

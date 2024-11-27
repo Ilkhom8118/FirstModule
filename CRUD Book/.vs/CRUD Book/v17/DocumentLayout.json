@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F1F090-93A9-4A46-AC41-53D1B1229CAD}|CRUD Book.csproj|c:\\users\\zeeyod\\desktop\\.net\\firstmodule\\crud book\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F1F090-93A9-4A46-AC41-53D1B1229CAD}|CRUD Book.csproj|solutionrelative:services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F1F090-93A9-4A46-AC41-53D1B1229CAD}|CRUD Book.csproj|c:\\users\\zeeyod\\desktop\\.net\\firstmodule\\crud book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F1F090-93A9-4A46-AC41-53D1B1229CAD}|CRUD Book.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F1F090-93A9-4A46-AC41-53D1B1229CAD}|CRUD Book.csproj|c:\\users\\zeeyod\\desktop\\.net\\firstmodule\\crud book\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F1F090-93A9-4A46-AC41-53D1B1229CAD}|CRUD Book.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Book\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Book\\Services\\BookServices.cs",
+              "RelativeToolTip": "Services\\BookServices.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:11:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Book\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Book\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:11:30.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Book\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zeeyoD\\Desktop\\.NET\\FirstModule\\CRUD Book\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwIAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:10:50.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

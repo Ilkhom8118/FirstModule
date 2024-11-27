@@ -1,0 +1,15 @@
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\bin\Debug\net8.0\CRUD Book.exe
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\bin\Debug\net8.0\CRUD Book.deps.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\bin\Debug\net8.0\CRUD Book.runtimeconfig.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\bin\Debug\net8.0\CRUD Book.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\bin\Debug\net8.0\CRUD Book.pdb
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.AssemblyInfoInputs.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.AssemblyInfo.cs
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.csproj.CoreCompileInputs.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.sourcelink.json
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\refint\CRUD Book.dll
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.pdb
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\CRUD Book.genruntimeconfig.cache
+C:\Users\zeeyoD\Desktop\.NET\FirstModule\CRUD Book\obj\Debug\net8.0\ref\CRUD Book.dll
